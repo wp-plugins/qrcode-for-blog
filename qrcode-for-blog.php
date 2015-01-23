@@ -4,7 +4,7 @@
   Plugin Name: QR Code For Blog
   Plugin URI: http://www.ninjapress.net/qrcode-for-blog/
   Description: Let's associate every post and page to a Qr Code
-  Version: 1.0
+  Version: 1.1
   Author: Ninja Press
   Author URI: http://www.ninjapress.net
   License: GPL2

@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: qr code, qrcode, blog, website
 Requires at least: 3.2
 Tested up to: 3.6
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,6 +46,9 @@ Look at the frequently ask questions here and contact us for any information;
 == Screenshots ==
 
 == Changelog ==
+
+= 1.1 =
+Now does not display the QRCode in a browser window, but force the download
 
 = 1.0 =
 Initial revision
